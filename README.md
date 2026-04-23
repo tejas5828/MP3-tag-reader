@@ -1,1 +1,1 @@
-# MP3-tag-reader
+A lightweight and efficient MP3 Tag Reader built to extract and display metadata from MP3 audio files. This project reads ID3 tags and presents useful information such as song title, artist, album, genre, and more.
